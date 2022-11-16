@@ -4,4 +4,5 @@
 
 #### SpringBoot入門
 
-[占い.webm](https://user-images.githubusercontent.com/105863111/202068463-bae9cbd0-4974-4a5c-bb35-30a2ed2a0500.webm)
+
+[占い (1).webm](https://user-images.githubusercontent.com/105863111/202068807-f3fd91e2-64a1-42db-8317-3efb1bec5b5f.webm)
